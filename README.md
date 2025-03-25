@@ -1,2 +1,2 @@
 # video-to-quiz
-Takes Video as input , 
+Takes Video as input , .
